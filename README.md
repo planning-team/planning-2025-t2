@@ -50,4 +50,22 @@ You are encouraged to come up with your own project ideas, yet make sure to pass
  * Evaluation: Each team will evaluate their colleagues’ presentations by asking questions to other teams.
 
 
+ # Virtual Environment Setup
+
+1. Make sure Python 3.8 or newer is installed (`python3 --version`).
+2. From the project root, create a virtual environment:
+   ```bash
+   python3 -m venv .venv
+   ```
+3. Activate it:
+   - macOS/Linux: `source .venv/bin/activate`
+   - Windows PowerShell: `.venv\Scripts\Activate.ps1`
+4. Install the project in editable mode with dependencies (run this from the repository root where `pyproject.toml` lives):
+   ```bash
+   python -m pip install --upgrade pip
+   pip install -e .
+   ```
+5. When finished, deactivate with `deactivate`.
+
+
 
