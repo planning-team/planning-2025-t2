@@ -21,17 +21,17 @@ This repository includes all material used during the course: seminars and probl
 | 17-11-2025 |  S2: Sampling |
 | 21-11-2025 |  [L05: Discrete Optimal Planning]()|
 | 24-11-2025 |  [L06: Optimal Control  in Planning & Navigation]() |
-| 28-11-2025 |  [L07: ]() |
-| 1-12-2025 |  [L08: ]() |
-| 5-12-2025 |  [L09: ]() |
-| 8-12-2025 |  [L10: ]() |
+| 28-11-2025 |  [L07: MDP]() |
+| 1-12-2025 |  [L08: Decision-Theoretic Planning]() |
+| 5-12-2025 |  [L09: Reinforcement Learning]() |
+| 8-12-2025 |  [L10: Imitation Learning]() |
 
 ## Problem Sets
 
 Deadline dates for submitting problem sets, in the folder `PS*`:
  * PS1: Discrete planning (13-November-2025)
  * PS2: Sampling-based planning (27-November-2025)
- * PS3: MDP (10-December-2025)
+ * PS3: MDP (11-December-2025)
  
 ## Final Course Project
 
